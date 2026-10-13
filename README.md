@@ -144,3 +144,4 @@ See `portfolio-assets/EXPORT-GUIDE.md`. The recommended 1280×960 highlight comb
 ## Disclaimer
 
 This is a self-initiated concept project created to demonstrate consumer brand strategy, family-tech product design, mobile UX, frontend development, campaign systems, and lifecycle creative. Sideby is fictional. No real users, customers, funding, revenue, results, partnerships, ratings, or certifications are claimed.
+# sideby-family-startup-project
