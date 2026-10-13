@@ -135,7 +135,28 @@ QA uses installed Google Chrome. To use a Playwright-managed browser, change the
 
 ## Deployment
 
-`next.config.ts` uses `output: 'export'`, trailing slashes, and unoptimized images because all images are already sized and hosted locally. Publish `out/` to a static host. `.openai/hosting.json` contains the private Sites identity and static output directory; no credentials are stored in source. Change `metadataBase` in `src/app/layout.tsx` if hosting moves.
+### Netlify
+
+Connect `AVolatile/sideby-family-startup-project` and use these settings:
+
+| Setting | Value |
+| --- | --- |
+| Production branch | `main` |
+| Base directory | Leave empty (repository root) |
+| Package directory | Leave empty |
+| Build command | `npm run build` |
+| Publish directory | `out` |
+| Node version | `22` |
+
+The root `netlify.toml` sets the build command, publish directory, Node version, and `NETLIFY_NEXT_PLUGIN_SKIP=true`. `next.config.ts` uses `output: 'export'`, so `next build` generates the entire site in `out/`. No separate `next export` command or server adapter is needed. Each route has its own HTML page; do not add a catch-all rewrite to the homepage.
+
+If Netlify reports that the branch is missing, confirm the connected repository is `AVolatile/sideby-family-startup-project` and select `main`. If a deployed URL shows “Page not found,” confirm the publish directory is `out`, clear a stale base/package directory, and run a new deploy after the configuration commit reaches GitHub.
+
+Open Graph URLs use Netlify's build-time `URL` automatically. Set the non-secret build variable `SITE_URL` if a different canonical domain is needed. `.netlify/` is ignored so local account/project linking metadata stays out of Git.
+
+### Other static hosts
+
+Publish `out/` to a static host. Images and fonts are already sized and hosted locally. `.openai/hosting.json` contains the earlier private Sites identity and static output directory; no credentials are stored in source. Outside Netlify, set `SITE_URL` during the build to use a different metadata origin.
 
 ## Portfolio usage
 

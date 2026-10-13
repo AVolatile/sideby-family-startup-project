@@ -3,7 +3,9 @@ import { DemoProvider } from "@/lib/DemoProvider";
 import "@/styles/globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://sideby-anthony-volatile.lushshore129.chatgpt.site",
+    process.env.SITE_URL ||
+      process.env.URL ||
+      "https://sideby-anthony-volatile.lushshore129.chatgpt.site",
   ),
   title: {
     default: "Sideby — Room to grow. A plan to go.",

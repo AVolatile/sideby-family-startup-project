@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Next.js already generates every route as static HTML in out/.
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
