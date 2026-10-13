@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "welcome",
+    "width": 320,
+    "scrollWidth": 320,
+    "passed": true
+  },
+  {
+    "slug": "welcome",
+    "width": 390,
+    "scrollWidth": 390,
+    "passed": true
+  },
+  {
+    "slug": "welcome",
+    "width": 600,
+    "scrollWidth": 600,
+    "passed": true
+  },
+  {
+    "slug": "invite",
+    "width": 320,
+    "scrollWidth": 320,
+    "passed": true
+  },
+  {
+    "slug": "invite",
+    "width": 390,
+    "scrollWidth": 390,
+    "passed": true
+  },
+  {
+    "slug": "invite",
+    "width": 600,
+    "scrollWidth": 600,
+    "passed": true
+  },
+  {
+    "slug": "weekly",
+    "width": 320,
+    "scrollWidth": 320,
+    "passed": true
+  },
+  {
+    "slug": "weekly",
+    "width": 390,
+    "scrollWidth": 390,
+    "passed": true
+  },
+  {
+    "slug": "weekly",
+    "width": 600,
+    "scrollWidth": 600,
+    "passed": true
+  },
+  {
+    "slug": "permission",
+    "width": 320,
+    "scrollWidth": 320,
+    "passed": true
+  },
+  {
+    "slug": "permission",
+    "width": 390,
+    "scrollWidth": 390,
+    "passed": true
+  },
+  {
+    "slug": "permission",
+    "width": 600,
+    "scrollWidth": 600,
+    "passed": true
+  },
+  {
+    "slug": "tomorrow",
+    "width": 320,
+    "scrollWidth": 320,
+    "passed": true
+  },
+  {
+    "slug": "tomorrow",
+    "width": 390,
+    "scrollWidth": 390,
+    "passed": true
+  },
+  {
+    "slug": "tomorrow",
+    "width": 600,
+    "scrollWidth": 600,
+    "passed": true
+  }
+]

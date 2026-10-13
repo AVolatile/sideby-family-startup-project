@@ -1,0 +1,1783 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Sideby — Room to grow. A plan to go.",
+      "h1": 1
+    },
+    {
+      "route": "/how-it-works",
+      "status": 200,
+      "title": "How it works · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/for-parents",
+      "status": 200,
+      "title": "For parents · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/for-teens",
+      "status": 200,
+      "title": "For teens · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/features",
+      "status": 200,
+      "title": "Features · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/safety",
+      "status": 200,
+      "title": "Our approach to trust · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/pricing",
+      "status": 200,
+      "title": "Pricing · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/resources",
+      "status": 200,
+      "title": "Field notes · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "title": "About Sideby · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/login",
+      "status": 200,
+      "title": "Explore the demo · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/signup",
+      "status": 200,
+      "title": "Start your family · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/app",
+      "status": 200,
+      "title": "The Bennett family demo · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/app/today",
+      "status": 200,
+      "title": "Today",
+      "h1": 1
+    },
+    {
+      "route": "/app/calendar",
+      "status": 200,
+      "title": "Calendar",
+      "h1": 1
+    },
+    {
+      "route": "/app/responsibilities",
+      "status": 200,
+      "title": "Responsibilities",
+      "h1": 1
+    },
+    {
+      "route": "/app/check-ins",
+      "status": 200,
+      "title": "Check-ins",
+      "h1": 1
+    },
+    {
+      "route": "/app/rides",
+      "status": 200,
+      "title": "Rides",
+      "h1": 1
+    },
+    {
+      "route": "/app/goals",
+      "status": 200,
+      "title": "Goals",
+      "h1": 1
+    },
+    {
+      "route": "/app/permissions",
+      "status": 200,
+      "title": "Permissions",
+      "h1": 1
+    },
+    {
+      "route": "/app/updates",
+      "status": 200,
+      "title": "Family updates",
+      "h1": 1
+    },
+    {
+      "route": "/app/milestones",
+      "status": 200,
+      "title": "Growing independence",
+      "h1": 1
+    },
+    {
+      "route": "/app/info",
+      "status": 200,
+      "title": "Important info",
+      "h1": 1
+    },
+    {
+      "route": "/app/notifications",
+      "status": 200,
+      "title": "Notifications",
+      "h1": 1
+    },
+    {
+      "route": "/app/profiles",
+      "status": 200,
+      "title": "Our family",
+      "h1": 1
+    },
+    {
+      "route": "/campaign",
+      "status": 200,
+      "title": "Campaign studio · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/brand",
+      "status": 200,
+      "title": "The brand system · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/case-study",
+      "status": 200,
+      "title": "Case study · Anthony Volatile · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "status": 200,
+      "title": "The Sunday ten-minute reset · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "status": 200,
+      "title": "A check-in is a conversation, not a coordinate. · Sideby",
+      "h1": 1
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "status": 200,
+      "title": "Make space for the first solo plan. · Sideby",
+      "h1": 1
+    }
+  ],
+  "responsive": [
+    {
+      "route": "/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/how-it-works",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/for-parents",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/for-teens",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/features",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/safety",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/pricing",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/resources",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/login",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/signup",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/today",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/calendar",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/responsibilities",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/rides",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/goals",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/permissions",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/updates",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/milestones",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/info",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/notifications",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/app/profiles",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/campaign",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/brand",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/case-study",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/resources/the-sunday-ten",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/resources/check-ins-without-hovering",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 430,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "route": "/resources/a-first-solo-plan",
+      "width": 1440,
+      "overflow": false
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/safety",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/safety",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/signup",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/signup",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/app/today",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/app/today",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/app/calendar",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/app/calendar",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/app/check-ins",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/app/permissions",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/app/permissions",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/campaign",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/campaign",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/brand",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/brand",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/case-study",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/case-study",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "interactions": [
+    {
+      "name": "Teen persona and permission request → parent approval",
+      "passed": true
+    },
+    {
+      "name": "Ride request → caregiver assignment → arrived",
+      "passed": true
+    },
+    {
+      "name": "Voluntary check-in and undo",
+      "passed": true
+    },
+    {
+      "name": "Responsibility completion and parent acknowledgment",
+      "passed": true
+    },
+    {
+      "name": "Calendar creation, filtering, and event details",
+      "passed": true
+    },
+    {
+      "name": "Goal progress updates",
+      "passed": true
+    },
+    {
+      "name": "Dialog focus containment, Escape, and focus restoration",
+      "passed": true
+    },
+    {
+      "name": "Three-step onboarding with validation",
+      "passed": true
+    },
+    {
+      "name": "Campaign format, audience, and lifecycle preview switching",
+      "passed": true
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "status": 200
+    },
+    {
+      "href": "/how-it-works/",
+      "status": 200
+    },
+    {
+      "href": "/for-parents/",
+      "status": 200
+    },
+    {
+      "href": "/for-teens/",
+      "status": 200
+    },
+    {
+      "href": "/safety/",
+      "status": 200
+    },
+    {
+      "href": "/pricing/",
+      "status": 200
+    },
+    {
+      "href": "/resources/",
+      "status": 200
+    },
+    {
+      "href": "/login/",
+      "status": 200
+    },
+    {
+      "href": "/signup/",
+      "status": 200
+    },
+    {
+      "href": "/app/rides/",
+      "status": 200
+    },
+    {
+      "href": "/app/check-ins/",
+      "status": 200
+    },
+    {
+      "href": "/app/permissions/",
+      "status": 200
+    },
+    {
+      "href": "/login/?role=teen",
+      "status": 200
+    },
+    {
+      "href": "/features/",
+      "status": 200
+    },
+    {
+      "href": "/app/",
+      "status": 200
+    },
+    {
+      "href": "/about/",
+      "status": 200
+    },
+    {
+      "href": "/brand/",
+      "status": 200
+    },
+    {
+      "href": "/campaign/",
+      "status": 200
+    },
+    {
+      "href": "/case-study/",
+      "status": 200
+    },
+    {
+      "href": "/login/?role=parent",
+      "status": 200
+    },
+    {
+      "href": "/app/today/",
+      "status": 200
+    },
+    {
+      "href": "/app/calendar/",
+      "status": 200
+    },
+    {
+      "href": "/app/responsibilities/",
+      "status": 200
+    },
+    {
+      "href": "/app/goals/",
+      "status": 200
+    },
+    {
+      "href": "/app/updates/",
+      "status": 200
+    },
+    {
+      "href": "/app/milestones/",
+      "status": 200
+    },
+    {
+      "href": "/app/info/",
+      "status": 200
+    },
+    {
+      "href": "/app/notifications/",
+      "status": 200
+    },
+    {
+      "href": "/app/profiles/",
+      "status": 200
+    },
+    {
+      "href": "/resources/the-sunday-ten/",
+      "status": 200
+    },
+    {
+      "href": "/resources/check-ins-without-hovering/",
+      "status": 200
+    },
+    {
+      "href": "/resources/a-first-solo-plan/",
+      "status": 200
+    },
+    {
+      "href": "/campaign/sideby-campaign-kit.zip",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-01-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-02-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-03-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-04-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-05-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-06-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-07-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/social-08-square.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/poster-1.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/poster-2.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/poster-3.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/poster-4.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-1.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-2.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-3.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-4.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-5.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/app-store-6.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/display-300x250.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/display-728x90.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/display-160x600.svg",
+      "status": 200
+    },
+    {
+      "href": "/campaign/display-970x250.svg",
+      "status": 200
+    },
+    {
+      "href": "/emails/welcome.html",
+      "status": 200
+    },
+    {
+      "href": "/brand/sideby-brand-kit.zip",
+      "status": 200
+    },
+    {
+      "href": "/brand/sideby-icons.svg",
+      "status": 200
+    },
+    {
+      "href": "/brand/coordination-illustration.svg",
+      "status": 200
+    }
+  ],
+  "console": [],
+  "screenshots": [
+    "portfolio-assets/screenshots/homepage-desktop.png",
+    "portfolio-assets/screenshots/safety-desktop.png",
+    "portfolio-assets/screenshots/signup-desktop.png",
+    "portfolio-assets/screenshots/app-today-desktop.png",
+    "portfolio-assets/screenshots/app-calendar-desktop.png",
+    "portfolio-assets/screenshots/app-check-ins-desktop.png",
+    "portfolio-assets/screenshots/app-permissions-desktop.png",
+    "portfolio-assets/screenshots/campaign-desktop.png",
+    "portfolio-assets/screenshots/brand-desktop.png",
+    "portfolio-assets/screenshots/case-study-desktop.png",
+    "portfolio-assets/screenshots/parent-today-mobile.png",
+    "portfolio-assets/screenshots/teen-today-mobile.png",
+    "portfolio-assets/screenshots/calendar-mobile.png",
+    "portfolio-assets/screenshots/check-ins-mobile.png",
+    "portfolio-assets/screenshots/permissions-mobile.png",
+    "portfolio-assets/screenshots/rides-mobile.png"
+  ]
+}

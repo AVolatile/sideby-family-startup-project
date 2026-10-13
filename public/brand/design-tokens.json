@@ -1,0 +1,39 @@
+{
+  "colors": {
+    "paper": "#faf7f0",
+    "plum": "#422b48",
+    "coral": "#e75536",
+    "lilac": "#ded1f0",
+    "butter": "#f5df91",
+    "sky": "#c5dce8",
+    "ink": "#241927"
+  },
+  "fonts": {
+    "display": "Manrope 800",
+    "body": "DM Sans 400 / 600"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "radius": {
+    "small": 10,
+    "medium": 20,
+    "large": 32
+  },
+  "touchTarget": {
+    "minimum": 44,
+    "primary": 48
+  },
+  "motion": {
+    "duration": "180–300ms",
+    "easing": "ease",
+    "reducedMotion": "remove decorative transitions"
+  }
+}

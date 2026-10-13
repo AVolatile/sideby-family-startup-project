@@ -1,0 +1,278 @@
+[
+  {
+    "file": "app-icon.svg",
+    "width": 512,
+    "height": 512,
+    "overflow": []
+  },
+  {
+    "file": "color-system.svg",
+    "width": 1200,
+    "height": 700,
+    "overflow": []
+  },
+  {
+    "file": "coordination-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "overflow": []
+  },
+  {
+    "file": "favicon.svg",
+    "width": 48,
+    "height": 48,
+    "overflow": []
+  },
+  {
+    "file": "paired-path.svg",
+    "width": 800,
+    "height": 680,
+    "overflow": []
+  },
+  {
+    "file": "sideby-icons.svg",
+    "width": 1000,
+    "height": 500,
+    "overflow": []
+  },
+  {
+    "file": "symbol.svg",
+    "width": 256,
+    "height": 256,
+    "overflow": []
+  },
+  {
+    "file": "wordmark.svg",
+    "width": 760,
+    "height": 240,
+    "overflow": []
+  },
+  {
+    "file": "app-store-1.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "app-store-2.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "app-store-3.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "app-store-4.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "app-store-5.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "app-store-6.svg",
+    "width": 1290,
+    "height": 2796,
+    "overflow": []
+  },
+  {
+    "file": "display-160x600.svg",
+    "width": 160,
+    "height": 600,
+    "overflow": []
+  },
+  {
+    "file": "display-300x250.svg",
+    "width": 300,
+    "height": 250,
+    "overflow": []
+  },
+  {
+    "file": "display-728x90.svg",
+    "width": 728,
+    "height": 90,
+    "overflow": []
+  },
+  {
+    "file": "display-970x250.svg",
+    "width": 970,
+    "height": 250,
+    "overflow": []
+  },
+  {
+    "file": "poster-1.svg",
+    "width": 1000,
+    "height": 1500,
+    "overflow": []
+  },
+  {
+    "file": "poster-2.svg",
+    "width": 1000,
+    "height": 1500,
+    "overflow": []
+  },
+  {
+    "file": "poster-3.svg",
+    "width": 1000,
+    "height": 1500,
+    "overflow": []
+  },
+  {
+    "file": "poster-4.svg",
+    "width": 1000,
+    "height": 1500,
+    "overflow": []
+  },
+  {
+    "file": "social-01-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-01-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-01-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-02-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-02-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-02-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-03-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-03-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-03-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-04-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-04-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-04-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-05-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-05-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-05-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-06-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-06-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-06-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-07-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-07-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-07-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  },
+  {
+    "file": "social-08-portrait.svg",
+    "width": 1080,
+    "height": 1350,
+    "overflow": []
+  },
+  {
+    "file": "social-08-square.svg",
+    "width": 1080,
+    "height": 1080,
+    "overflow": []
+  },
+  {
+    "file": "social-08-story.svg",
+    "width": 1080,
+    "height": 1920,
+    "overflow": []
+  }
+]

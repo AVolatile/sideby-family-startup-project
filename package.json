@@ -1,0 +1,43 @@
+{
+  "name": "sideby",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "node scripts/preview.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "qa": "node scripts/qa.mjs",
+    "assets": "node scripts/generate-assets.mjs && python3 scripts/package-assets.py",
+    "preview": "node scripts/preview.mjs",
+    "format": "prettier --write src scripts *.mjs *.ts *.json",
+    "format:check": "prettier --check src scripts *.mjs *.ts *.json"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-jsx-a11y": "^6.10.0",
+    "eslint-plugin-react": "^7.37.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "prettier": "^3.9.10",
+    "typescript": "^5.9.0"
+  },
+  "overrides": {
+    "postcss": "^8.5.30"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
